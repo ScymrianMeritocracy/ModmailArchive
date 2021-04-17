@@ -1,0 +1,9 @@
+# editor detritus
+*~
+*.swp
+
+# the legit configs
+praw.ini
+
+# saved archives
+archives/*
